@@ -10,6 +10,8 @@ Async JS is used a lot in the project. Using modern async JS (async-await or top
 
 MVC architecture allows you render data that is fetched from third party API and add lot of functionality.
 
+Parcel was used as a bundler for this project.
+
 Codes are written by me, but the project is not belongs to me.
 
 This is Jonas Schmedtmann's project which is created for learning purposes.
