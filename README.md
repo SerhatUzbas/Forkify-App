@@ -16,3 +16,5 @@ Codes are written by me, but the project is not belongs to me.
 
 This is Jonas Schmedtmann's project which is created for learning purposes.
 
+You can check this app via : https://serhat-forkify.surge.sh/
+
